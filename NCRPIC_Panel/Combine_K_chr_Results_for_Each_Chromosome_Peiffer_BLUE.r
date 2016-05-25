@@ -9,7 +9,6 @@ library('MASS')
 library(multtest)
 library(gplots)
 
-setwd("/Users/adminuser/Desktop/Work/Graduate_Students/Angela_(Hsaio-Han)_Chen/Data_for_Angela/Ames_Data/")
 source("http://zzlab.net/GAPIT/emma.txt")
 source("GAPIT_with_BIC_20120210.r")
 #source("http://www.maizegenetics.net/images/stories/bioinformatics/GAPIT/gapit_functions.txt")

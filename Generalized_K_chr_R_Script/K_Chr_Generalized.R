@@ -1,5 +1,5 @@
 
-#########################Function created by Alex Lipka, 4/6/2016
+#########################Function created by Alex Lipka and Angela Chen, 4/6/2016
 ####Required input files:
 ##### Genotypic data in hapmap format; with a separate file for each chromosome
 ##### Phenotypic data

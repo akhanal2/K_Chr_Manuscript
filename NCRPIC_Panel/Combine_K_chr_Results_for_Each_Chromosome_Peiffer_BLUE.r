@@ -28,7 +28,6 @@ number.of.chromosomes <- 10
 
 #Step 2: Set the result directory to where the combined data will go
 #######################################################################################
-setwd("/Users/adminuser/Desktop/Work/Graduate_Students/Angela_(Hsaio-Han)_Chen/Data_for_Angela/Ames_Data/Conduct_K_chr_Peiffer")
 home.dir <- getwd()
 
 for(i in traits.total){

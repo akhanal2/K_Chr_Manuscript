@@ -9,7 +9,6 @@ library('MASS')
 library(multtest)
 library(gplots)
 
-setwd("/Users/adminuser/Desktop/Work/Graduate_Students/Angela_(Hsaio-Han)_Chen/Data_for_Angela/Ames_Data/")
 source("http://zzlab.net/GAPIT/emma.txt")
 source("GAPIT_with_BIC_20120210.r")
 #source("http://www.maizegenetics.net/images/stories/bioinformatics/GAPIT/gapit_functions.txt")
@@ -29,7 +28,6 @@ number.of.chromosomes <- 10
 
 #Step 2: Set the result directory to where the combined data will go
 #######################################################################################
-setwd("/Users/adminuser/Desktop/Work/Graduate_Students/Angela_(Hsaio-Han)_Chen/Data_for_Angela/Ames_Data/Conduct_Kchr")
 home.dir <- getwd()
 
 for(i in traits.total){

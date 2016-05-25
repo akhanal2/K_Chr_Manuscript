@@ -1,4 +1,3 @@
-setwd("/Users/adminuser/Desktop/Work/Graduate_Students/Angela_(Hsaio-Han)_Chen/Genearlized_K_chr_Script/")
 home.dir <- getwd()
 
 

@@ -1,6 +1,5 @@
 #Step 1: Set data directory and import files
 #######################################################################################
-setwd("/Users/adminuser/Desktop/Work/Graduate_Students/Angela_(Hsaio-Han)_Chen/Data_for_Angela/Ames_Data")
 home.dir <- getwd()
 
 
